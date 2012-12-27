@@ -1,9 +1,9 @@
 # Codeq Cookbook
 
 [codeq-playground]: https://github.com/devn/codeq-playground
-[the codeq-playground core.clj]:         https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
-[devn]:             https://github.com/devn
-[wiki pages]:       /RichMorin/codeq-cookbook/wiki/_pages
+[core.clj]: https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
+[devn]: https://github.com/devn
+[wiki pages]: /RichMorin/codeq-cookbook/wiki/_pages
 
 Devin Walters ([devn]) has created the nifty [codeq-playground], billed as:
 
@@ -14,7 +14,7 @@ Devin Walters ([devn]) has created the nifty [codeq-playground], billed as:
 > They’re stolen liberally from the Codeq blog post and from Rich Hickey’s
 > unsession talk on Codeq at Clojure/conj 2012
 
-The examples (in [core.clj]) look very useful (if largely undocumented).
+The examples (in the codeq-playground [core.clj]) look very useful (if largely undocumented).
 Basically, they contain Clojure-based queries and rules for use with Codeq.
 With this as inspiration, I have created this (WIP!) "Codeq Cookbook".
 
