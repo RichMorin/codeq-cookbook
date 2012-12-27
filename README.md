@@ -1,7 +1,7 @@
 # Codeq Cookbook
 
-[codeq-playground]: http://www.datomic.com/get-datomic.html
-[core.clj]:         https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
+[codeq-playground]: https://github.com/devn/codeq-playground
+[the codeq-playground core.clj]:         https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
 [devn]:             https://github.com/devn
 [wiki pages]:       /RichMorin/codeq-cookbook/wiki/_pages
 
