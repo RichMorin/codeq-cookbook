@@ -1,9 +1,9 @@
 # Codeq Cookbook
 
-[codeq-playground]: https://github.com/devn/codeq-playground
-[core.clj]: https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
-[devn]: https://github.com/devn
-[wiki pages]: /RichMorin/codeq-cookbook/wiki/_pages
+[codeq-playground]:  https://github.com/devn/codeq-playground
+[core.clj]:          https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
+[devn]:              https://github.com/devn
+[wiki pages]:        /RichMorin/codeq-cookbook/wiki/_pages
 
 Devin Walters ([devn]) has created the nifty [codeq-playground], billed as:
 
@@ -16,10 +16,10 @@ Devin Walters ([devn]) has created the nifty [codeq-playground], billed as:
 
 The examples (in the codeq-playground [core.clj]) look very useful (if largely undocumented).
 Basically, they contain Clojure-based queries and rules for use with Codeq.
-With this as inspiration, I have created this (WIP!) "Codeq Cookbook".
+With this as inspiration, I have created this "Codeq Cookbook".
 
 I have edited query examples from codeq-playground into [wiki pages],
 adding information about caveats, idioms, motivation, use, etc.
-Each page will be formatted as a standardized set of sections
+Each page is formatted as a standardized set of sections
 (reminiscent of Unix man pages).
-The content will mimic that of assorted "Foo Cookbook" volumes.
+The content mimics that of assorted "Foo Cookbook" volumes.
