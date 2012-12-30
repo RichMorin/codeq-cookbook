@@ -2,6 +2,7 @@
 
 [codeq-playground]:  https://github.com/devn/codeq-playground
 [core.clj]:          https://github.com/devn/codeq-playground/blob/master/src/com/thinkslate/codeq_playground/core.clj
+[datomic-cookbook]:  /RichMorin/datomic-cookbook
 [devn]:              https://github.com/devn
 [wiki pages]:        /RichMorin/codeq-cookbook/wiki/_pages
 
@@ -23,3 +24,7 @@ adding information about caveats, idioms, motivation, use, etc.
 Each page is formatted as a standardized set of sections
 (reminiscent of Unix man pages).
 The content mimics that of assorted "Foo Cookbook" volumes.
+
+This cookbook concentrates on Codeq-specific recipes.
+For Datomic-specific recipes, see [datomic-cookbook].
+
